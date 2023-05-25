@@ -104,3 +104,8 @@ cd grunt-get-started
 npm install
 grunt
 ```
+Check result:
+
+```bash
+cat build/grunt-get-started.min.js
+```
