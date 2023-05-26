@@ -43,7 +43,7 @@ npm install --save-dev grunt-contrib-uglify
 touch Gruntfile.js
 ```
 
-Edit the `Gruntfile.js` file.
+Edit the `Gruntfile.js` file. Read [Configuring Tasks](https://gruntjs.com/configuring-tasks) for understanding.
 
 ```javascript
 module.exports = function(grunt) {
@@ -104,6 +104,7 @@ cd grunt-get-started
 npm install
 grunt
 ```
+
 Check result:
 
 ```bash
